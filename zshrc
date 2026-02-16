@@ -8,6 +8,12 @@ alias e="exit"
 alias s="source"
 alias v="nvim"
 
+# git
+alias gs="git status"
+alias gb="git branch"
+alias gch="git check out"
+alias gl="git log"
+
 # tmux
 alias ts="tmux new -s"
 alias ta="tmux a -t"
