@@ -7,6 +7,7 @@ alias c="clear"
 alias e="exit"
 alias s="source"
 alias v="nvim"
+alias dev="cd ~/Dev/"
 
 # git
 alias gs="git status"
@@ -18,3 +19,6 @@ alias gl="git log"
 alias ts="tmux new -s"
 alias ta="tmux a -t"
 alias tl="tmux ls"
+
+# vibe-local
+export PATH="${HOME}/.local/bin:${PATH}"
